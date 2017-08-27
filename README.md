@@ -1,7 +1,3 @@
-# Moviles
-
-
-
 Tecnológico de Costa Rica
 
 Escuela de Ingeniería en Computación
