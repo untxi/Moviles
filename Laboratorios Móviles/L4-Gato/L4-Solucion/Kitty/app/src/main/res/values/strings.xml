@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kitty</string>
+    <string name="jugador1">1st Gammer</string>
+    <string name="jugador2">2nd Gammer</string>
+    <string name="reiniciar">Restart</string>
+    <string name="NO">NO</string>
+    <string name="SI">SI</string>
+</resources>

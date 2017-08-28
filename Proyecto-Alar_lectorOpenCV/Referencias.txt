@@ -1,0 +1,14 @@
+https://examples.javacodegeeks.com/android/core/ui/surfaceview/android-surfaceview-example/
+
+https://developer.android.com/reference/android/view/SurfaceView.html
+
+http://www.tutorialspoint.com/android/android_camera.htm
+
+http://stackoverflow.com/questions/13194081/how-to-open-a-second-activity-on-click-of-button-in-android-app
+
+Colores del App
+Amarillo=255,194,13
+Azul fuerte= 48,60,151
+AzulDebil=100,114,195
+Cabello=144,113,103
+Piel=252,231,168

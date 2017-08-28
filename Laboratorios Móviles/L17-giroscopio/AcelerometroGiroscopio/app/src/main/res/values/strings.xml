@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AcelerometroGiroscopio</string>
+    <string name="no_acuracy">Sin Suficiente presición</string>
+</resources>

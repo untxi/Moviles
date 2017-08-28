@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "975291940752",
+    "project_id": "project-7256485728034853621"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975291940752:android:14c96a1758bb2442",
+        "android_client_info": {
+          "package_name": "labs.amysa.loggoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975291940752-efi10q974tic9o5b0v4e1802dinsj8hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "labs.amysa.loggoogle",
+            "certificate_hash": "7C177FFCBB2F16C1B9D37E24984D4BB21262951F"
+          }
+        },
+        {
+          "client_id": "975291940752-2q85ppvt4rjaef4vf9hvkjc78otnn5cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdQvkC91QaIXxK2tuHFf-n8BYQ96Z7KOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

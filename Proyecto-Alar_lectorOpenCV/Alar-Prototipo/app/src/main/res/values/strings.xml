@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Alar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="scan">Scan</string>
+    <string name="student">Student List</string>
+    <string name="scanTitle">Tap to Save</string>
+    <string name="codeInsert">Test Code</string>
+    <string name="checkTestButton">Check Test</string>
+    <string name="welcome">The Examiner assistant to score evaluations</string>
+    <string name="scanAlert">Analyzing</string>
+    <string name="extra">EXTRA</string>
+    <string name="studentName">Student</string>
+    <string name="aboutSinopsis">Alar means elf in the Cabécar language. This an application that works like a little pixie for teachers who use The Examiner, It helps to reduce time and human error while exams are checked.</string>
+    <string name="aboutPeople">It was developed as first project on Android in the course of Development Applications for Mobile Devices of the Computer Science Engineering career at Costa Rica Institute of Technology (TEC)</string>
+    <string name="developers">Developers</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="explain1">Here you have to write the test code wich is on the top of left corner of the print document</string>
+    <string name="explain2">Tap here to scan each test at the time</string>
+    <string name="explain3">Write the student name exactly in The Examiner desktop application</string>
+    <string name="explain4">Tap SCAN to save the scan view</string>
+    <string name="explain5">Do it as many times you need</string>
+    <string name="explain6">Here you can check the list of students who were scanned</string>
+    <string name="explain7">Tap here for send the information, a file will done and the list of student will reset</string>
+    <string name="explain0">Tap it for help and about</string>
+    <string name="intro">Capture a picture to crop!</string>
+    <string name="picture">Picture</string>
+    <string name="capture">Launch Camera</string>
+    <string name="TEC">2016</string>
+    <string name="Contribuidores">Contribuidores</string>
+
+    <string name="externalhelp">KevinAguilar, Diseñador.\nFrancisco Torres, Creador The Examiner</string>
+
+</resources>

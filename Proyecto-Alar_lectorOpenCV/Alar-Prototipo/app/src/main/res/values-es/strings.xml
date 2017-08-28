@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Alar</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="action_settings">Configuración</string>
+    <string name="scan">Escanear</string>
+    <string name="student">Lista de Estudiantes</string>
+    <string name="scanTitle">Pulse para Guardar</string>
+    <string name="codeInsert">Código de Examen</string>
+    <string name="checkTestButton">Revisar Examen</string>
+    <string name="welcome">Asistente para evaluaciones de The Examiner</string>
+    <string name="scanAlert">Analizando</string>
+    <string name="extra">EXTRA</string>
+    <string name="studentName">Estudiante</string>
+    <string name="aboutSinopsis">Alar significa duende en la lengua Cabécar. Esta una aplicación que funciona como un pequeño duendecillo a la mano del profesor usuario de The Examiner para disminuir tanto el tiempo como el error humano en la calificación de exámenes.</string>
+    <string name="aboutPeople">Fue desarrollado como primer proyecto en Android en el curso de Desarrollo de Aplicaciones para Dispositivos Móviles de la carrera de Ingeniería en Computación del Tecnológico de Costa Rica (TEC)</string>
+    <string name="developers">Desarrolladoras</string>
+    <string name="about">Acerca de</string>
+    <string name="help">Ayuda</string>
+    <string name="explain1">Aquí debe digitar el código de examen el cual se encuentra en la esquina superior izquierda del examen físico</string>
+    <string name="explain2">Pulse aquí para scanear cada examen</string>
+    <string name="explain3">Digite el nombre del estudiante igual a como aparece en la aplicación de escritorio The Examiner</string>
+    <string name="explain4">Pulse ESCANEAR para guardar lo escaneado</string>
+    <string name="explain5">Hágalo tantas veces como lo necesite</string>
+    <string name="explain6">Aquí puede consultar la lista de los estudiantes que fueron escaneados</string>
+    <string name="explain7">Toque aquí para enviar la información, será realizado un archivo y la lista de los estudiantes se restablecerá</string>
+    <string name="explain0">Pulselo para ayuda y about</string>
+    <string name="intro">Tome una foto para cortar!</string>
+    <string name="picture">Foto</string>
+    <string name="capture">Abrir Cámara</string>
+    <string name="TEC">2016</string>
+    <string name="Contribuidores">Contribuidores</string>
+    <string name="externalhelp">KevinAguilar, Diseñador\nFrancisco Torres, Creador The Examiner</string>
+
+</resources>
